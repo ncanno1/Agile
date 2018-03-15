@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Agile M2m Tasks Stories" max_length="40" name="x_182287_agile_m2m_tasks_stories" type="collection">
+        <element label="Story" max_length="32" name="story" reference="x_182287_agile_story" type="reference"/>
+        <element label="Task" max_length="32" name="task" reference="x_182287_agile_task" type="reference"/>
+        <index name="index">
+            <element name="task"/>
+        </index>
+        <index name="index2">
+            <element name="story"/>
+        </index>
+    </element>
+</database>

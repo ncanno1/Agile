@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-15 18:56:08</sys_created_on>
-        <sys_id>f6398872db34130076a0d360cf961939</sys_id>
+        <sys_id>ecab0036db34130076a0d360cf96195a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Points</sys_name>
         <sys_package display_value="Agile" source="x_182287_agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_package>
         <sys_policy/>
         <sys_scope display_value="Agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_scope>
         <sys_update_name>sys_dictionary_x_182287_agile_story_points</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-15 18:56:08</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-15 19:06:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
