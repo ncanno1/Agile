@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Story" max_length="40" name="x_182287_agile_story" type="collection"/>
+    <element label="Story" max_length="40" name="x_182287_agile_story" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Blocked" max_length="40" name="blocked" type="boolean"/>
+        <element label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element choice="3" default="1" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element label="Draft" sequence="0" value="1"/>
+                <element label="Ready" sequence="1" value="2"/>
+                <element label="Work in progress" sequence="2" value="3"/>
+                <element label="Testing" sequence="3" value="4"/>
+                <element label="Complete" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+    </element>
 </database>
