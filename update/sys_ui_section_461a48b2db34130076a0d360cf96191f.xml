@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>25cac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>87b3603adb74130076a0d360cf9619db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,97 +19,111 @@
             <element>points</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>a5cac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>0bb3603adb74130076a0d360cf9619db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sprint</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>8bb3603adb74130076a0d360cf9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>29cac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>0fb3603adb74130076a0d360cf9619db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>a9cac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>8bb3a03adb74130076a0d360cf96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>2dcac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>0fb3a03adb74130076a0d360cf96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>blocked</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>adcac0f2db34130076a0d360cf9619bb</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>8fb3a03adb74130076a0d360cf96190d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>21cac0f2db34130076a0d360cf9619bc</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>03b3a03adb74130076a0d360cf96190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-15 19:02:28</sys_created_on>
-            <sys_id>a1cac0f2db34130076a0d360cf9619bc</sys_id>
+            <sys_created_on>2018-03-15 20:51:31</sys_created_on>
+            <sys_id>83b3a03adb74130076a0d360cf96190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_182287_agile_story" sys_domain="global" view="Default view">461a48b2db34130076a0d360cf96191f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 19:02:28</sys_updated_on>
+            <sys_updated_on>2018-03-15 20:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

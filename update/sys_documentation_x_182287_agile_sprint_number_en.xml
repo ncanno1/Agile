@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_182287_agile_sprint">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_182287_agile_sprint</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 20:57:52</sys_created_on>
+            <sys_id>48352cf6db74130076a0d360cf961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Agile" source="x_182287_agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_scope>
+            <sys_update_name>sys_documentation_x_182287_agile_sprint_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 20:57:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
