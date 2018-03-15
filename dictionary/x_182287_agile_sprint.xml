@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sprint" max_length="40" name="x_182287_agile_sprint" type="collection">
+        <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Name" max_length="60" name="name" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+    </element>
+</database>

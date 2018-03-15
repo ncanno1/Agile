@@ -6,6 +6,7 @@
         <element label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
         <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
         <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="Sprint" max_length="32" name="sprint" reference="x_182287_agile_sprint" type="reference"/>
         <element choice="3" default="1" label="State" max_length="40" name="state" type="integer">
             <choice>
                 <element label="Draft" sequence="0" value="1"/>
@@ -16,6 +17,9 @@
             </choice>
         </element>
         <index name="index">
+            <element name="sprint"/>
+        </index>
+        <index name="index2">
             <element name="assigned_to"/>
         </index>
     </element>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Agile M2m Stories Sprints" max_length="40" name="x_182287_agile_m2m_stories_sprints" type="collection">
+        <element label="Sprint" max_length="32" name="sprint" reference="x_182287_agile_sprint" type="reference"/>
+        <element label="Story" max_length="32" name="story" reference="x_182287_agile_story" type="reference"/>
+        <index name="index">
+            <element name="sprint"/>
+        </index>
+        <index name="index2">
+            <element name="story"/>
+        </index>
+    </element>
+</database>
