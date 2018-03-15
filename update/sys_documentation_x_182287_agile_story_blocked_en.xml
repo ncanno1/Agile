@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="blocked" label="Blocked" language="en" table="x_182287_agile_story">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>blocked</element>
+            <help/>
+            <hint/>
+            <label>Blocked</label>
+            <language>en</language>
+            <name>x_182287_agile_story</name>
+            <plural>Blocked</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:56:28</sys_created_on>
+            <sys_id>b5694c72db34130076a0d360cf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Blocked</sys_name>
+            <sys_package display_value="Agile" source="x_182287_agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agile">6b7cf7e2dbb0130076a0d360cf9619a4</sys_scope>
+            <sys_update_name>sys_documentation_x_182287_agile_story_blocked_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:56:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
